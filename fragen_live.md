@@ -27,7 +27,7 @@ Wir arbeiten mit 8 Fragen. Die gliedern sich wie folgt:
 - 2 Fragen zum Thema ``Diskriminierung von Frauen am Arbeitsmarkt``
 - 1 Frage zum Thema ``Entscheidungsirrtümer bei Personalauswahl``
 - 1 Frage zum Thema ``Bedeutung von Bewerbungsfotos``
-- 1 Frage zum Thema ``Oberflächlichkeit / Titel in Österreich``
+- 1 Frage zum Thema ``Behinderung und Arbeitssuche``
 
 [Zurück zum Inhalt](#fragen-live)
 
