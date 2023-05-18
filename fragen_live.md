@@ -6,7 +6,7 @@
   - [Klassifizierung](#klassifizierung)
   - [Übernahme / Auswertung](#übernahme--auswertung)
   - [Die Fragen](#die-fragen)
-    - [1. Fun Fact Einstiegsfrage zum Warmlaufen / Hedy Lamarr](#1-fun-fact-einstiegsfrage-zum-warmlaufen--hedy-lamarr)
+    - [1. Fun Fact Einstiegsfrage zum Warmlaufen / Hedy LAMARR](#1-fun-fact-einstiegsfrage-zum-warmlaufen--hedy-lamarr)
     - [2. Oberflächlichkeit / Schönheit](#2-oberflächlichkeit--schönheit)
     - [3. Diskriminierung über die Vornamen](#3-diskriminierung-über-die-vornamen)
     - [4. Diskriminierung von Frauen (1)](#4-diskriminierung-von-frauen-1)
@@ -27,7 +27,7 @@ Wir arbeiten mit 8 Fragen. Die gliedern sich wie folgt:
 - 2 Fragen zum Thema ``Diskriminierung von Frauen am Arbeitsmarkt``
 - 1 Frage zum Thema ``Entscheidungsirrtümer bei Personalauswahl``
 - 1 Frage zum Thema ``Bedeutung von Bewerbungsfotos``
-- 1 Frage zum Thema ``Arbeitssuche mit Behinderung`
+- 1 Frage zum Thema ``Oberflächlichkeit / Titel in Österreich``
 
 [Zurück zum Inhalt](#fragen-live)
 
@@ -100,7 +100,7 @@ pie title Einkommenvorteile von schönen Menschen
 
 ## Die Fragen
 
-### 1. Fun Fact Einstiegsfrage zum Warmlaufen / Hedy Lamarr
+### 1. Fun Fact Einstiegsfrage zum Warmlaufen / Hedy LAMARR
 
 > 
 > #### Die österreichische Schauspielerin und späterer Hollywood-Star der 30er-, 40er- und 50er-Jahre wurde vom Filmstudio MGM als schönste Frau der Welt vermarktet. Sie hat aber auch als Erfinderin 1942 etwas geschaffen, das heute noch hohe Bedeutung in der IT-Branche hat.
@@ -111,7 +111,7 @@ pie title Einkommenvorteile von schönen Menschen
 - 3...Den Begriff "bug"
 - 4...Vorgängertechnologie von Bluetooth
 
-Richtig ist 4. Alle Erfindungen sind übrigens von Frauen, und wir klären das dann bei der Auswertung auf. 2 und 3 ist ``Grace Hopper 1952 und 1947``, 1 ist ``Ada Lovelace in den 1830er Jahren``. 
+Richtig ist 4. Alle Erfindungen sind übrigens von Frauen, und wir klären das dann bei der Auswertung auf. 2 und 3 ist ``Grace HOPPER 1952 und 1947``, 1 ist ``Ada LOVELACE in den 1830er Jahren``. 
 
 [Zurück zum Inhalt](#fragen-live)
 
@@ -120,7 +120,7 @@ Richtig ist 4. Alle Erfindungen sind übrigens von Frauen, und wir klären das d
 ### 2. Oberflächlichkeit / Schönheit
 
 > 
-> #### Im 2011 erschienen Buch " Beauty Pays : Why Attractive People Are More Successful" des amerikansichen Wirtschaftswissenschaftlers Daniel Hamermesh errechnet er den Einkommenvorteil von attraktiven Personen im Laufe Ihres Berufslebens. Dieser beträgt in den USA bis zu...:
+> #### Im 2011 erschienen Buch " Beauty Pays : Why Attractive People Are More Successful" des amerikansichen Wirtschaftswissenschaftlers Daniel HAMERMESH errechnet er den Einkommenvorteil von attraktiven Personen im Laufe Ihres Berufslebens. Dieser beträgt in den USA bis zu...:
 >
 
 -  1...55.000 $
@@ -154,7 +154,7 @@ Richtige Antwort: 2
 ### 4. Diskriminierung von Frauen (1)
 
 > 
-> #### Dr. Susi Störmer, Professorin für Personalwirtschaft an der Universität Hamburg hat bei 14.532 Frauen und 15.145 Männern aus verschiedensten Berufen und Einkommenssparten nach Zusammenhängen zwischen Entlohnung und Body-Mass-Index gesucht. Die Studie wurde 2011 veröffentlicht. Demnach verdienen übergewichtige Männer durchschnittlich einen Euro mehr pro Stunde. Wie schaut es in dieser Gruppe bei den Frauen aus?
+> #### Dr. Susi STÖRMER, Professorin für Personalwirtschaft an der Universität Hamburg hat bei 14.532 Frauen und 15.145 Männern aus verschiedensten Berufen und Einkommenssparten nach Zusammenhängen zwischen Entlohnung und Body-Mass-Index gesucht. Die Studie wurde 2011 veröffentlicht. Demnach verdienen übergewichtige Männer durchschnittlich einen Euro mehr pro Stunde. Wie schaut es in dieser Gruppe bei den Frauen aus?
 >
 
 -  1...- 0,65 €
@@ -187,7 +187,7 @@ Richtige Antwort: 4  Anmerkung. Ich habe bewusst das Vorzeigeland Schweden gewä
 ### 6. Lücken im Lebenslauf
 
 > 
-> #### Dominika Wach und Florian Frank Technische Universität Dresden, Lehrstuhl für Arbeits- und Organisationspsychologie sowie Uwe P. Kanning, Hochschule Osnabrück, Fakultät Wirtschafts-, und Sozialwissenschaften haben versucht, in einer Gruppe von 2.225 Personen Zusammenhänge zwischen Lücken im Lebenslauf und beruflichem Erfolg zu finden. Als Kriterien für den Berufserfolg dienten Entwicklung und Höhe des Einkommens, beruflicher Status sowie subjektive Erfolgseinschätzungen. Die Studie kam zu welchem Schluss, wenn es um die Frage geht, ob Lücken im Lebenslauf geeignete Kriterien für die Personalauswahl sind?
+> #### Dominika WACH und Florian FRANK Technische Universität Dresden, Lehrstuhl für Arbeits- und Organisationspsychologie sowie Uwe P. KANNING, Hochschule Osnabrück, Fakultät Wirtschafts-, und Sozialwissenschaften haben versucht, in einer Gruppe von 2.225 Personen Zusammenhänge zwischen Lücken im Lebenslauf und beruflichem Erfolg zu finden. Als Kriterien für den Berufserfolg dienten Entwicklung und Höhe des Einkommens, beruflicher Status sowie subjektive Erfolgseinschätzungen. Die Studie kam zu welchem Schluss, wenn es um die Frage geht, ob Lücken im Lebenslauf geeignete Kriterien für die Personalauswahl sind?
 >
 
 -  1...keinesfalls empfehlenswert, keine signifikanten Zusammenhänge
@@ -202,7 +202,7 @@ Richtige Antwort: 4  Anmerkung. Ich habe bewusst das Vorzeigeland Schweden gewä
 ### 7. Bedeutung von Bewerbungsfotos / Entscheidungskriterien der Personalverantwortlichen
 
 > 
-> #### Uwe P. Kanning, Hochschule Osnabrück, Fakultät Wirtschafts-, und Sozialwissenschaften hat 244  Personalverantwortliche von deutschen Unternehmen jeder Größe befragt und versucht herauszufinden, welche Kriterien Ihre Personalentscheidungen am stärksten beeinflussen. Dabei sind z.B. Tipp- und Grammatikfehler ganz vorne, ebenso eine Übersichtliche Darstellung des Lebenslaufs (85 - 88 %). Mit 41,8 % liegt das Fehlen eines Bewerberfotos im Mittelfeld. Das ist aber ein Mittelwert aus allen Unternehmensgrößen. Wie sehr stört es die Kleinbetriebe bis 50 Mitarbeiter:innen, wenn das Foto bei den Bewerbungsunterlagen fehlt?
+> #### Uwe P. KANNING, Hochschule Osnabrück, Fakultät Wirtschafts-, und Sozialwissenschaften hat 244  Personalverantwortliche von deutschen Unternehmen jeder Größe befragt und versucht herauszufinden, welche Kriterien Ihre Personalentscheidungen am stärksten beeinflussen. Dabei sind z.B. Tipp- und Grammatikfehler ganz vorne, ebenso eine Übersichtliche Darstellung des Lebenslaufs (85 - 88 %). Mit 41,8 % liegt das Fehlen eines Bewerberfotos im Mittelfeld. Das ist aber ein Mittelwert aus allen Unternehmensgrößen. Wie sehr stört es die Kleinbetriebe bis 50 Mitarbeiter:innen, wenn das Foto bei den Bewerbungsunterlagen fehlt?
 >
 
 -  1...34.8 %
