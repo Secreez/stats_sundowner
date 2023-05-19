@@ -190,10 +190,12 @@ Richtige Antwort: 4  Anmerkung. Ich habe bewusst das Vorzeigeland Schweden gewä
 > #### Dominika WACH und Florian FRANK Technische Universität Dresden, Lehrstuhl für Arbeits- und Organisationspsychologie sowie Uwe P. KANNING, Hochschule Osnabrück, Fakultät Wirtschafts-, und Sozialwissenschaften haben versucht, in einer Gruppe von 2.225 Personen Zusammenhänge zwischen Lücken im Lebenslauf und beruflichem Erfolg zu finden. Als Kriterien für den Berufserfolg dienten Entwicklung und Höhe des Einkommens, beruflicher Status sowie subjektive Erfolgseinschätzungen. Die Studie kam zu welchem Schluss, wenn es um die Frage geht, ob Lücken im Lebenslauf geeignete Kriterien für die Personalauswahl sind?
 >
 
--  1...keinesfalls empfehlenswert, keine signifikanten Zusammenhänge
+-  1...keine signifikanten Zusammenhänge
 -  2...Pluspunkt für Kandidat:innen wenn Reisen oder Pflege von Angehörigen der Grund waren
 -  3...Minuspunkt für Kandidat:innen wenn Ursache Kündigung war
 -  4...empfehlenswert, weil viele Lücken = wenig Berufserfolg und umgekehrt
+
+Richtige Antwort: 1
 
 [Zurück zum Inhalt](#fragen-live)
 
