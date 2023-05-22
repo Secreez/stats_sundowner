@@ -2,14 +2,17 @@
 
 TODO:
 
-- Richtige Fragen müssen noch gemacht werden ~ 
-- darauf basierend entsprechende und ansehnliche Statistiken (gerade sind sie zur veranschaulichung random generiert)
+FRAGEBOGEN:X
 
-FRAGEBOGEN:
-https://docs.google.com/forms/d/e/1FAIpQLSdV6xc-61YUVS6gzWm_18emWQplY4NEXMDkj9rd_Su9SHjhXA/viewform?usp=sharing
+- nan andere Möglichkeit, interessante suchen.
+- color coding
+- Titel anstelle der {question} -> kurz Titel der Frage nehmen
+- Verbesserung des manuell erstellten Pie Charts
+- Überlegung wo welche Chart verwenden
+- Das richtige Ergebnis entweder als neue .py Datei und Wahrscheinlichkeit berechnen, wie weit auseinander entfernt waren oder:
+- drop-down
 
-könnt ihr hier erreichen und bearbeiten.. Wenn ihr damit fertig seit und ihr in ausprobieren möchtet.
-- Füllt ein paar mal ihn aus, für unterschiedliche Werte und dann auf:
+
 
 - responses: https://docs.google.com/forms/d/1An7TCf2TR2Yfs1qlqTJnSZaWoqidzTV8dFmivJfcdD8/edit#responses
 - Optionen: Antworten herunterladen (CSV)
