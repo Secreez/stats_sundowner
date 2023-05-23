@@ -4,13 +4,9 @@ TODO:
 
 FRAGEBOGEN: https://docs.google.com/forms/d/1MXg5-7yY2aqgFNrXWVnwJ-rqcLcmW3QEyNkWLL6U1Pw/edit
 
-- nan andere Möglichkeit, interessante suchen.
-- color coding
-- Titel anstelle der {question} -> kurz Titel der Frage nehmen
+
 - Verbesserung des manuell erstellten Pie Charts
-- Überlegung wo welche Chart verwenden
-- Das richtige Ergebnis entweder als neue .py Datei und Wahrscheinlichkeit berechnen, wie weit auseinander entfernt waren oder:
-- drop-down
+- Das richtige Ergebnis entweder als neue .py Datei und Wahrscheinlichkeit berechnen, wie weit auseinander entfernt waren oder dropdown
 
 
 
