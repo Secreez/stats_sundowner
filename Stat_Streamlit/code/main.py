@@ -3,7 +3,7 @@ import pandas as pd
 import random
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource, NumeralTickFormatter
-from bokeh.palettes import Spectral4
+from bokeh.palettes import Spectral4, Reds, Oranges, YlOrBr, Greens
 from bokeh.transform import factor_cmap
 from math import pi
 
@@ -14,10 +14,11 @@ def load_data():
 
 data = load_data()  # Lade die Daten
 
-# Aktualisieren des Mappings für die neuen Antworten und Fragen
+
+# Update the mapping dictionary
 mapping = {
-    "erstes Computerprogramm für automatische Webstühle": 1,
-    "den ersten Compiler": 2,
+    "den ersten Compiler (Live Erklärung: ein Programm zur Übersetzung von Programmiersprachen in für Computer verständliche Form. Einsen und Nullen. Die Basis von allem.)": 1,
+    "erstes Computerprogramm für automatische Webstühle": 2,
     "Den Begriff 'bug'": 3,
     "Vorgängertechnologie von Bluetooth": 4,
     "55.000 $": 1,
@@ -38,8 +39,8 @@ mapping = {
     "36,4 %": 4,
     "keine signifikanten Zusammenhänge": 1,
     "Pluspunkt für Kandidat:innen wenn Reisen oder Pflege von Angehörigen der Grund waren": 2,
-    "Minuspunkt für Kandidat:innen wenn Ursache Kündigung war": 3,
-    "empfehlenswert, weil viele Lücken = wenig Berufserfolg und umgekehrt": 4,
+    "Minuspunkt für Kandidat:innen wenn die Ursache eine Kündigung war": 3,
+    "empfehlenswert, da viele Lücken = wenig Berufserfolg aussagt und umgekehrt": 4,
     "34.8 %": 1,
     "25.6 %": 2,
     "43,4 %": 3,
@@ -50,6 +51,7 @@ mapping = {
     "3.2 %": 4
 }
 
+
 # Aktualisieren der Antworten in den Daten
 for col in data.columns[1:]:
     data[col] = data[col].map(mapping).astype(str) # Umschreiben der Antworten in numerische Werte
@@ -57,39 +59,14 @@ for col in data.columns[1:]:
 # Entfernen von NaN-Werten
 data = data.dropna()
 
-for question in data.columns[1:]:
+colors = ["green", "yellowgreen", "orange", "red"]
+
+for i, question in enumerate(data.columns[1:], start=1):
     # Zähle die Häufigkeit jeder Bewertung für diese spezifische Frage
     rating_counts = data[question].value_counts().sort_index()
 
-    # Histogramm
-    if len(rating_counts) > 1:
-        source = ColumnDataSource(data=dict(x=rating_counts.index.astype(str), y=rating_counts.values))
-
-        p = figure(
-            x_range=list(rating_counts.index),
-            height=350,
-            toolbar_location=None,
-            title=f"{question}"
-        )
-
-        p.vbar(
-            x='x',
-            top='y',
-            width=0.9,
-            source=source,
-            line_color='white',
-            fill_color=factor_cmap('x', palette=Spectral4, factors=rating_counts.index)
-        )
-
-        p.xaxis.axis_label = 'Rating'
-        p.yaxis.axis_label = 'Count'
-        
-        # Formatierung der Achsen als ganze Zahlen
-
-        p.yaxis.formatter = NumeralTickFormatter(format='0,0')
-
-
-        st.bokeh_chart(p, use_container_width=True)
+    # Filter out nan value from rating_counts
+    rating_counts = rating_counts.dropna()
 
     # Pie Chart
     if len(rating_counts) > 1:
@@ -104,14 +81,14 @@ for question in data.columns[1:]:
         start_angle = 0
         end_angles = []
 
-        for i, count in enumerate(rating_counts.values):
+        for j, count in enumerate(rating_counts.values):
             end_angle = start_angle + 2 * pi * count / rating_counts.sum()
             end_angles.append(end_angle)
             p.wedge(
                 x=0, y=0, radius=0.8,
                 start_angle=start_angle, end_angle=end_angle,
-                fill_color=Spectral4[i % len(Spectral4)],
-                legend_label=rating_counts.index[i],
+                fill_color=colors[j % len(colors)],  # Assign color based on the modulo length of the color palette
+                legend_label=rating_counts.index[j],
                 source=source
             )
             start_angle = end_angle
